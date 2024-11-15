@@ -1,0 +1,12 @@
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+
+}
+a{
+    text-decoration: none;
+    font-size: 28px;
+    color: black;
+}
